@@ -4,7 +4,7 @@
 ## Instructions 🗂️
 Down below are all the steps that you need to follow in the exact same order as mentioned to run this project on your local machine 
 1. Fork this repository using 
-2. Run this command to clone the repository `git clone https://github.com/47-dev/Anti-Accident-Detection-Model`
+2. Run this command to clone the repository `git clone (https://github.com/Shining-dev/Enhancing-Road-Safety-Eye-Movement-Analysis-for-Advanced-Driver-Fatigue-Detection.git)`
 3. Create a new virtual environment using the command `conda activate venv/` 
 4. Activate the environment using the command `env\Scripts\activate.bat`
 5. Insall and import all the libraries
@@ -25,7 +25,7 @@ The objective of this endeavor is to create a trustworthy anti-vehicle accident 
 This technology has a big potential effect since it might be able to stop mishaps brought on by distracted driving, drowsy driving, and other risky habits. Also, it will make driving better for every person by lowering the amount of fatalities as well as injuries on the roadways. Automobile makers, transportation providers, and citizens who want to increase traffic safety can all benefit from the effort.
 
 ## Code 🖥️
-Here is the link that you can use for accesing the code file 👉 https://github.com/47-dev/Anti-Accident-Detection-Model/blob/main/main_Code.ipynb
+Here is the link that you can use for accesing the code file 👉 https://github.com/Shining-dev/Enhancing-Road-Safety-Eye-Movement-Analysis-for-Advanced-Driver-Fatigue-Detection.git
 
 # Deep Geeks demo video 📷
 Link to access  👉  https://link-orpin.vercel.app/
